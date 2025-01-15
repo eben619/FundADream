@@ -33,7 +33,7 @@ https://fund-a-dream.vercel.app/
 
 1. **Clone the repository:**
    ```bash
-   git clone [invalid URL removed]
+   git clone https://github.com/eben619/FundADream
 
 APP HOSTED HERE:
 https://fund-a-dream.vercel.app/
